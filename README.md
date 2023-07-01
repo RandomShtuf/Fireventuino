@@ -1,2 +1,4 @@
 # Fireventuino
-This is the repository for the Fireventuino Project
+
+
+## A project that aims to create a smoke detector that is accurate and capable of givng caution and pre-caution
